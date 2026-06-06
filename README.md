@@ -88,7 +88,7 @@ For example:
 
 
 # PART D
-
+![Network Diagram](TASK2.png)
 
 # PART E 
 # 1. What IP address did DNS return for Google?
