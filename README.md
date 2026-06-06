@@ -67,7 +67,7 @@ This IP is publicly accessible on the Internet and is used as a public DNS serve
 This IP belongs to the 192.168.x.x private address range and is often used by routers.
 
 # PART C 
-
+![my pc](2.png)
 1. Which IP range does your device belong to?
 My device's IPv4 address is 192.168.1.25, which belongs to the 192.168.0.0 – 192.168.255.255 range.
 This range is reserved for private networks and is commonly used in homes, offices, and educational institutions.
