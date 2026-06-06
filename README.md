@@ -84,6 +84,25 @@ The router also serves as the Default Gateway, enabling communication with exter
 If the DNS server stopped working, devices would not be able to translate domain names into IP addresses.
 For example:
 •	google.com would not open. 
-•	youtube.com would not open. 
+•	youtube.com would not open.
+
+
+# PART D
+
+
+# PART E 
+# 1. What IP address did DNS return for Google?
+The DNS server returned the IP address 142.250.183.78 for google.com. This means that the domain name google.com was successfully translated into its corresponding IP address.
+Your IP may be different because Google uses multiple servers around the world. Write the IP address shown on your system.
+
+# 2. Was the ping successful?
+Yes, the ping was successful because replies were received from Google's server. This confirms that the network connection and Internet access are working properly.
+If you see packet loss like:
+100% packet loss
+then the ping was not successful.
+
+# 3. Why is DNS important before communication begins?
+DNS (Domain Name System) is important because it converts human-readable domain names such as google.com into IP addresses that computers can understand. Before a device can communicate with a website, it must know the website's IP address. DNS performs this translation, allowing users to access websites using names instead of remembering numerical IP addresses.
+
 However, if the IP address of a website is known, it may still be possible to access the website directly using its IP address.
 Therefore, Internet connectivity may still exist, but website names cannot be resolved.
